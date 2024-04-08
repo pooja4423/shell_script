@@ -10,3 +10,4 @@ do
 done
 echo "The length of an array is $i"
 echo "The sum of an array is $sum"
+
